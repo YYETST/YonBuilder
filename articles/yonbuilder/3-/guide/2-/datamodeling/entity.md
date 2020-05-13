@@ -26,8 +26,8 @@
 ```
 引用接口|说明
 ---|---
-审批|审批流相关字段
-业务流|业务流相关字段(推单\拉单等)
+审批    |审批流相关字段
+业务流  |业务流相关字段(推单\拉单等)
 交易类型|交易类型的编码，单据类型下交易类型编码唯一交易类型名称交易类型名称默认同一个单据类型下只能有一个默认的交易类型
 树形结构|创建树形的表单
 自动编码|系统控制自动编码
@@ -81,3 +81,35 @@
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/6.png"/>
 </div>
 <p align="center">图 6</p>
+
+4、实体操作
+
+```
+发布后才可以使用实体
+```
+<div align=center>
+<img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/7.png"/>
+</div>
+<p align="center">图 7</p>
+```
+已发布实体编辑后需重新发布
+```
+<div align=center>
+<img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/8.png"/>
+</div>
+<p align="center">图 8</p>
+<div align=center>
+<img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/9.png"/>
+</div>
+<p align="center">图 9</p>
+```
+未发布实体允许删除，已发布实体只允许停用
+```
+<div align=center>
+<img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/10.png"/>
+</div>
+<p align="center">图 10</p>
+<div align=center>
+<img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/11.png"/>
+</div>
+<p align="center">图 11</p>
