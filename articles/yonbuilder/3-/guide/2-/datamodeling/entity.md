@@ -1,6 +1,6 @@
 # 实体
 
-#### 点击进入应用。
+#### 点击进入应用
 <div align=center>
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/1.png"/>
 </div>
@@ -83,7 +83,7 @@
 </div>
 <p align="center">图 6</p>
 
-4、实体操作
+#### 实体操作
 
 ```
 发布后才可以使用实体
