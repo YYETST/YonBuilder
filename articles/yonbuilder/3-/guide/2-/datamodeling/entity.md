@@ -1,4 +1,4 @@
-# 新增实体
+# 实体
 
 #### 点击进入应用。
 <div align=center>
@@ -77,6 +77,7 @@
 ```
 实现效果
 ```
+
 <div align=center>
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/6.png"/>
 </div>
@@ -91,9 +92,11 @@
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/7.png"/>
 </div>
 <p align="center">图 7</p>
+
 ```
 已发布实体编辑后需重新发布
 ```
+
 <div align=center>
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/8.png"/>
 </div>
@@ -102,9 +105,11 @@
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/9.png"/>
 </div>
 <p align="center">图 9</p>
+
 ```
 未发布实体允许删除，已发布实体只允许停用
 ```
+
 <div align=center>
 <img src="/articles/yonbuilder/3-/guide/2-/datamodeling/images/10.png"/>
 </div>
